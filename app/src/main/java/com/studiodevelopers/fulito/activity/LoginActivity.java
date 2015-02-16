@@ -72,7 +72,7 @@ public class LoginActivity extends ActionBarActivity {
         authButton.setUserInfoChangedCallback(new LoginButton.UserInfoChangedCallback() {
             @Override
             public void onUserInfoFetched(GraphUser user) {
-                LoginActivity.this.user = user;
+                //LoginActivity.this.user = user;
                 if (user != null) {
                     Toast.makeText(getApplicationContext(),"Hello, " + user.getName(),Toast.LENGTH_LONG).show();
                 } else {
@@ -81,7 +81,7 @@ public class LoginActivity extends ActionBarActivity {
                 }
             }
         });
-        showHashKey(getApplicationContext());
+        //showHashKey(getApplicationContext());
     }
     public static void showHashKey(Context context) {
         try {
