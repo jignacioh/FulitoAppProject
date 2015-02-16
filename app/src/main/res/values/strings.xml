@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Fulito</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="drawer_open">Drawer Opened</string>
+    <string name="drawer_close">Drawer Closed</string>
+    <string name="grupo_a">Grupo A</string>
+    <string name="grupo_b">Grupo B</string>
+    <string name="grupo_c">Grupo C</string>
+    <string name="app_id">687375684707147</string>
+    <string-array name="listaMenuOptions">
+        <item>Ver Ahora</item>
+        <item>Los equipos</item>
+        <item>Tabla de posiciones</item>
+        <item>Calendario</item>
+        <item>Noticias</item>
+        <item>Otros Eventos</item>
+        <item>Enviar Comentarios</item>
+    </string-array>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+</resources>
